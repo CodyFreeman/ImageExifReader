@@ -1,0 +1,25 @@
+{
+  "name": "Freeman/ExifReader",
+  "description": "PHP Exif reader for images that ensures image path is not a URL",
+  "keywords": ["php", "exif", "image", "library", "wrapper"],
+  "homepage": "https://github.com/CodyFreeman/ImageExifReader",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Cody Freeman",
+      "email": "codycodescode@gmail.com",
+      "role": "Creator"
+    }
+  ],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Freeman\\ImageExifReader\\": "src/"
+    }
+  },
+  "require-dev": {
+    "phpunit/phpunit": "^6.1"
+  }
+}
