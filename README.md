@@ -17,7 +17,7 @@ Either use CLI:
 
 or add it to your composer file:
 
-`"freeman/image-exif-reader": "*"`
+`"freeman/image-exif-reader": "^1.0"`
 
 
 ## Usage 
@@ -38,11 +38,7 @@ In both scenarios the call will return null if the image format is wrong, or the
 In case the file does not exist an exception is thrown
 
 ### Running tests
-Image Exif Reader comes with phpunit tests and a phpunit.xml file. To run phpunit tests, simply invoke phpunit in the root folder of this project.
-
-If you have installed phpunit through composer simply run:
- 
-`<yourPath>/vendor/bin/phpunit <yourPath>/vendor/Freeman/ImageExifReader`.
+Image Exif Reader comes with phpunit tests and a phpunit.xml file.
 
 ## Version History
 1.0.0: Initial release on GitHub and Packagist
