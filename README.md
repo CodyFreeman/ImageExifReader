@@ -45,4 +45,4 @@ If you have installed phpunit through composer simply run:
 `<yourPath>/vendor/bin/phpunit <yourPath>/vendor/Freeman/ImageExifReader`.
 
 ## Version History
-1.0: Initial release on GitHub and Packagist
+1.0.0: Initial release on GitHub and Packagist
