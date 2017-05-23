@@ -42,3 +42,5 @@ Image Exif Reader comes with phpunit tests and a phpunit.xml file.
 
 ## Version History
 1.0.0: Initial release on GitHub and Packagist
+
+1.0.1: Readme updates only
