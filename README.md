@@ -13,11 +13,11 @@ Use composer to install this library.
 
 Either use CLI:
  
-`php composer.phar require "Freeman/ImageExifReader"`
+`php composer.phar require "freeman/image-exif-reader"`
 
 or add it to your composer file:
 
-`"Freeman/ImageExifReader": "*"`
+`"freeman/image-exif-reader": "*"`
 
 
 ## Usage 
