@@ -1,5 +1,5 @@
 {
-  "name": "Freeman/ExifReader",
+  "name": "freeman/image-exif-reader",
   "description": "PHP Exif reader for images that ensures image path is not a URL",
   "keywords": ["php", "exif", "image", "library", "wrapper"],
   "homepage": "https://github.com/CodyFreeman/ImageExifReader",
